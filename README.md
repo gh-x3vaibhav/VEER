@@ -6,7 +6,7 @@ VEER is a comprehensive 3D visualization and enhancement platform that combines 
 
 ## 🎥 Demo Video
 
-[![VEER Demo Video](VR_files/Demo/Stage-1.mp4)](VR_files/Demo/Stage-1.mp4)
+[![VEER Demo Video](VR_files/Demo/Stage-1.mp4)](VR_files/Demo/Stage-1-2.mp4)
 
 *Click the thumbnail above to watch the demo video*
 
@@ -29,7 +29,7 @@ VEER is a comprehensive 3D visualization and enhancement platform that combines 
 
 ### Realm Processing
 - **Web-based Visualization**: Interactive 3D point cloud visualization using Three.js
-  [![Three.js Demo](VR_files/Demo/3js.mp4)](VR_files/Demo/3js.mp4)
+  [![Three.js Demo](VR_files/Demo/3js.mp4)](VR_files/Demo/3js-2.mp4)
 - **Game Engine Integration**: Real-time 3D rendering and interaction in both Unity and Unreal Engine
 
 ### VR Support
