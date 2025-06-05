@@ -140,9 +140,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Core Contributors
 - [Vaibhav Sonawane](https://github.com/yourusername) - Project Lead
 - [Pratik Suryawanshi](https://github.com/suryawanshipratik003) - 3D Constructor
-- [Team Member 2](https://github.com/teammember2) - VR Integration
-- [Team Member 3](https://github.com/teammember3) - Documentation & Testing
-- [Team Member 4](https://github.com/teammember4) - Documentation & Testing
+- [Prasad Sathe](https://github.com/teammember2) - VR Integration
+- [Gokul Jadhav](https://github.com/teammember3) - Documentation & Testing
+- [Zainab Khan](https://github.com/teammember4) - Documentation & Testing
 
 
 ### How to Contribute
