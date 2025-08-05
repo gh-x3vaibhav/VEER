@@ -136,7 +136,8 @@ python 3D_Enhancer/pointcleanner/denoise.py --input <input_file> --output <outpu
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
+### Mentore 
+- [Himanshu Choudhari](https://github.com/Lightnin-8) - Senior Developer
 ### Core Contributors
 - [Vaibhav Sonawane](https://github.com/yourusername) - Project Lead
 - [Pratik Suryawanshi](https://github.com/suryawanshipratik003) - 3D Constructor
